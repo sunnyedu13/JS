@@ -1,0 +1,95 @@
+body {
+    background-color: white;
+    padding: 10px;
+    justify-content: center;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+div {
+
+    background-color: rgb(230, 240, 240);
+    ;
+    display: table;
+    padding: 20px 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgb(168, 172, 169);
+    text-align: center;
+    /* width: 30px; */
+}
+
+
+h1 {
+    text-align: center;
+    padding: 1px;
+}
+
+li {
+    background-color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 0.3cm;
+    position: relative;
+    right: 55px;
+    text-align: center;
+    width: 110%;
+
+}
+
+#upper {
+    background-color: rgb(102, 135, 114);
+    color: white;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.upper5 {
+    margin-left: 3px;
+}
+
+
+#lower {
+    background-color: rgba(212, 194, 99, 0.89);
+    color: white;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+
+.lower5 {
+    margin-left: 5px;
+}
+
+#delete {
+    font-size: 15px;
+}
+
+
+#dlt1 {
+    background-color: rgb(239, 187, 187);
+    border-radius: 5px;
+}
+
+#dlt2 {
+    background-color: rgb(239, 187, 187);
+    border-radius: 5px;
+
+}
+
+#dlt3 {
+    background-color: rgb(239, 187, 187);
+    border-radius: 5px;
+}
+
+#dlt4 {
+    background-color: rgb(239, 187, 187);
+    border-radius: 5px;
+}
+
+#dlt5 {
+    background-color: rgb(239, 187, 187);
+    border-radius: 5px;
+}

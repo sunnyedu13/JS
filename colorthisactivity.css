@@ -1,0 +1,31 @@
+h2{
+text-align: center;
+}
+
+button{
+    margin-left: 450px;
+}
+
+div{
+    border: 2px solid black;
+    height: 69px;
+    width: 300px;
+    margin-left: 350px;
+    text-align: center;
+    position: relative;
+    justify-content: space-evenly;
+   padding-top: 40px;
+}
+
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
