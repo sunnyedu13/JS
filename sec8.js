@@ -31,6 +31,8 @@ h1.style.color = "red";
 h1.style.backgroundColor = "yellow";
 h1.style.padding = "10px";
 
+h1.style.alignItems = "center";
+
 // 3. filter
 let arr2 = [2,3,5,8,10,13,18];
 
