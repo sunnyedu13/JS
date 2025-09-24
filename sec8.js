@@ -24,6 +24,13 @@ let double2 = arr.map((el)=>{
     console.log(el*2)
 })
 
+// Editted Portion
+
+let h1 = document.querySelector("h1")
+h1.style.color = "red";
+h1.style.backgroundColor = "yellow";
+h1.style.padding = "10px";
+
 // 3. filter
 let arr2 = [2,3,5,8,10,13,18];
 
